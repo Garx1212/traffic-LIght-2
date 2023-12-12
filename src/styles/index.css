@@ -10,3 +10,36 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.imagen{
+    height: 100vh;
+    background-image: 
+    url("https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-cartoon-hand-drawn-street-background-design-paintedstreet-backgroundcity-roadillustration-image_64168.jpg");
+    background-size: cover;
+  }
+.Traffic-light{
+    background-color: black;
+    padding: 15px;
+    display: inline-block;
+    margin: auto;
+    
+}
+.light{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:grey;       
+}
+.rojo{background: red;}
+.amarillo{background:yellow;}
+.verde{background:greenyellow;}
+
+.glow {
+    box-shadow: 0px 0px 25px 10px rgb(247, 239, 171);
+  }
+  
+  
+  
+  
+  
+  
+  
